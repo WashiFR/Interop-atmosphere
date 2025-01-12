@@ -106,7 +106,11 @@ echo <<<HTML
     <div class="links">
         <h3>Liens utiles</h3>
         <ul>
-            <li>Github : <a target="_blank" href=""></a></li>
+            <li>Github : 
+                <a target="_blank" 
+                href="https://github.com/WashiFR/Interop-atmosphere">
+                https://github.com/WashiFR/Interop-atmosphere</a>
+                </li>
             <li>API météo : 
                 <a target="_blank" 
                 href="https://www.infoclimat.fr/public-api/gfs/xml?_ll={$lat},{$lont}&_auth=ARsDFFIsBCZRfFtsD3lSe1Q8ADUPeVRzBHgFZgtuAH1UMQNgUTNcPlU5VClSfVZkUn8AYVxmVW0Eb1I2WylSLgFgA25SNwRuUT1bPw83UnlUeAB9DzFUcwR4BWMLYwBhVCkDb1EzXCBVOFQoUmNWZlJnAH9cfFVsBGRSPVs1UjEBZwNkUjIEYVE6WyYPIFJjVGUAZg9mVD4EbwVhCzMAMFQzA2JRMlw5VThUKFJiVmtSZQBpXGtVbwRlUjVbKVIuARsDFFIsBCZRfFtsD3lSe1QyAD4PZA%3D%3D&_c=19f3aa7d766b6ba91191c8be71dd1ab2">
